@@ -36,6 +36,9 @@ try:
     removed = json.loads((out / "removed-page.json").read_text())
     assert removed["status"] == 404 and removed["filesRemoved"]
     report["checks"].append({"scenario": "national-ranking-page-removed", "result": "passed"})
+    if (out / "removed-page-production.json").exists():
+        assert json.loads((out / "removed-page-production.json").read_text())["status"] == 404
+        report["checks"].append({"scenario": "removed-route-production-404", "result": "passed"})
     if "clubRanking" in evidence:
         assert len(evidence["clubRanking"]["rows"]) == 6
         assert evidence["clubRanking"]["heading"] == "Classement UEFA"

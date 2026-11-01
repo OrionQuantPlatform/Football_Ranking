@@ -38,3 +38,13 @@ The scope changed during implementation: the user clarified that the trophy belo
 An early browser verifier incorrectly required production telemetry scripts in the existing development session, where zero matching tags were observed. Its failure is retained in browser-verification.log and browser-first-failure.json. The final verifier checks production telemetry on HTTPS pages, rather than asserting production collection in local development. The application telemetry source was unchanged; production is checked separately after deployment.
 
 The new page is a placeholder for the future algorithmic top 30. No ranking computation or player assignment is implemented or claimed.
+
+## Production
+
+Implementation commit `48087606b1f024aefac6fef2dff402930e0a4322` deployed automatically from Git as `dpl_G5VUgWAU7iMSFSFy6fjcPcNapSJR`, READY. Inspect deployment-feature.json for the connector receipt.
+
+The public navbar → player-ranking workflow passes the same thirty-row, text-only navbar, title-only gold icon and placeholder assertions. Both existing Vercel telemetry SDK scripts are present on the production page. `player-ranking-production.jpg` shows the live result. `removed-page-production.json` independently confirms the old /classements route returns 404 publicly.
+
+Public HTTP E2E passes the registered routes, Bun health/configuration, six seasons, thirteen archive families, private-file isolation and immutable Git data transport. Inspect cloud-evidence.json / cloud.log. Rerun from dashboard: `PATH="$HOME/.bun/bin:$PATH" ORION_VERIFY_URL=https://orion-football-ranking.vercel.app ORION_CLOUD_EVIDENCE=outputs/player-ranking/cloud-evidence.json bun scripts/verify_cloud.mjs`.
+
+The final verification commit changes only evidence/continuity files. Its Git-triggered production deployment is checked separately; the final receipt is kept in ignored outputs/daily-refresh to avoid recursively committing deployment receipts.

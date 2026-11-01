@@ -537,6 +537,274 @@
       "scrollWidth": 390,
       "title": "Classement joueurs — Orion",
       "width": 390
+    },
+    {
+      "name": "production-navbar-entry",
+      "url": "https://orion-football-ranking.vercel.app/classement-joueurs?season=2026%2F2027&focus=europe",
+      "capturedAt": "2026-11-01T18:55:46.762Z",
+      "active": [
+        "Classement joueurs"
+      ],
+      "filters": false,
+      "heading": "Classement joueurs",
+      "icons": [
+        {
+          "gradient": "_r_0_",
+          "height": 42,
+          "hidden": "true",
+          "inHeading": true,
+          "inNavbar": false,
+          "width": 34
+        }
+      ],
+      "nav": [
+        {
+          "href": "/?season=2026%2F2027&focus=europe",
+          "text": "Vue d’ensemble"
+        },
+        {
+          "href": "/competitions?season=2026%2F2027&focus=europe",
+          "text": "Compétitions"
+        },
+        {
+          "href": "/clubs?season=2026%2F2027&focus=europe",
+          "text": "Clubs"
+        },
+        {
+          "href": "/joueurs?season=2026%2F2027&focus=europe",
+          "text": "Joueurs"
+        },
+        {
+          "href": "/classement-joueurs?season=2026%2F2027&focus=europe",
+          "text": "Classement joueurs"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe",
+          "text": "Matchs"
+        },
+        {
+          "href": "/reglages?season=2026%2F2027&focus=europe",
+          "text": "Réglages"
+        }
+      ],
+      "playerImages": 0,
+      "playerLinks": 0,
+      "rows": [
+        {
+          "label": "Rang 1, à venir",
+          "position": "01",
+          "text": "À venir",
+          "value": 1,
+          "visible": true
+        },
+        {
+          "label": "Rang 2, à venir",
+          "position": "02",
+          "text": "À venir",
+          "value": 2,
+          "visible": true
+        },
+        {
+          "label": "Rang 3, à venir",
+          "position": "03",
+          "text": "À venir",
+          "value": 3,
+          "visible": true
+        },
+        {
+          "label": "Rang 4, à venir",
+          "position": "04",
+          "text": "À venir",
+          "value": 4,
+          "visible": true
+        },
+        {
+          "label": "Rang 5, à venir",
+          "position": "05",
+          "text": "À venir",
+          "value": 5,
+          "visible": true
+        },
+        {
+          "label": "Rang 6, à venir",
+          "position": "06",
+          "text": "À venir",
+          "value": 6,
+          "visible": true
+        },
+        {
+          "label": "Rang 7, à venir",
+          "position": "07",
+          "text": "À venir",
+          "value": 7,
+          "visible": true
+        },
+        {
+          "label": "Rang 8, à venir",
+          "position": "08",
+          "text": "À venir",
+          "value": 8,
+          "visible": true
+        },
+        {
+          "label": "Rang 9, à venir",
+          "position": "09",
+          "text": "À venir",
+          "value": 9,
+          "visible": true
+        },
+        {
+          "label": "Rang 10, à venir",
+          "position": "10",
+          "text": "À venir",
+          "value": 10,
+          "visible": true
+        },
+        {
+          "label": "Rang 11, à venir",
+          "position": "11",
+          "text": "À venir",
+          "value": 11,
+          "visible": true
+        },
+        {
+          "label": "Rang 12, à venir",
+          "position": "12",
+          "text": "À venir",
+          "value": 12,
+          "visible": true
+        },
+        {
+          "label": "Rang 13, à venir",
+          "position": "13",
+          "text": "À venir",
+          "value": 13,
+          "visible": true
+        },
+        {
+          "label": "Rang 14, à venir",
+          "position": "14",
+          "text": "À venir",
+          "value": 14,
+          "visible": true
+        },
+        {
+          "label": "Rang 15, à venir",
+          "position": "15",
+          "text": "À venir",
+          "value": 15,
+          "visible": true
+        },
+        {
+          "label": "Rang 16, à venir",
+          "position": "16",
+          "text": "À venir",
+          "value": 16,
+          "visible": true
+        },
+        {
+          "label": "Rang 17, à venir",
+          "position": "17",
+          "text": "À venir",
+          "value": 17,
+          "visible": true
+        },
+        {
+          "label": "Rang 18, à venir",
+          "position": "18",
+          "text": "À venir",
+          "value": 18,
+          "visible": true
+        },
+        {
+          "label": "Rang 19, à venir",
+          "position": "19",
+          "text": "À venir",
+          "value": 19,
+          "visible": true
+        },
+        {
+          "label": "Rang 20, à venir",
+          "position": "20",
+          "text": "À venir",
+          "value": 20,
+          "visible": true
+        },
+        {
+          "label": "Rang 21, à venir",
+          "position": "21",
+          "text": "À venir",
+          "value": 21,
+          "visible": true
+        },
+        {
+          "label": "Rang 22, à venir",
+          "position": "22",
+          "text": "À venir",
+          "value": 22,
+          "visible": true
+        },
+        {
+          "label": "Rang 23, à venir",
+          "position": "23",
+          "text": "À venir",
+          "value": 23,
+          "visible": true
+        },
+        {
+          "label": "Rang 24, à venir",
+          "position": "24",
+          "text": "À venir",
+          "value": 24,
+          "visible": true
+        },
+        {
+          "label": "Rang 25, à venir",
+          "position": "25",
+          "text": "À venir",
+          "value": 25,
+          "visible": true
+        },
+        {
+          "label": "Rang 26, à venir",
+          "position": "26",
+          "text": "À venir",
+          "value": 26,
+          "visible": true
+        },
+        {
+          "label": "Rang 27, à venir",
+          "position": "27",
+          "text": "À venir",
+          "value": 27,
+          "visible": true
+        },
+        {
+          "label": "Rang 28, à venir",
+          "position": "28",
+          "text": "À venir",
+          "value": 28,
+          "visible": true
+        },
+        {
+          "label": "Rang 29, à venir",
+          "position": "29",
+          "text": "À venir",
+          "value": 29,
+          "visible": true
+        },
+        {
+          "label": "Rang 30, à venir",
+          "position": "30",
+          "text": "À venir",
+          "value": 30,
+          "visible": true
+        }
+      ],
+      "scripts": 2,
+      "scrollWidth": 1502,
+      "title": "Classement joueurs — Orion",
+      "width": 1502
     }
   ],
   "observations": [

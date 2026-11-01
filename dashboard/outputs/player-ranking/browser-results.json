@@ -20,11 +20,23 @@
       "result": "passed"
     },
     {
+      "page": "production-navbar-entry",
+      "positions": 30,
+      "headingIcons": 1,
+      "navbarIcons": 0,
+      "width": 1502,
+      "result": "passed"
+    },
+    {
       "scenario": "no-full-season-download",
       "result": "passed"
     },
     {
       "scenario": "national-ranking-page-removed",
+      "result": "passed"
+    },
+    {
+      "scenario": "removed-route-production-404",
       "result": "passed"
     },
     {
