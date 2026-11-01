@@ -1055,6 +1055,357 @@
           "time": "2026-11-01T20:30:00.000Z"
         }
       ]
+    },
+    {
+      "name": "production-default-matchs",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe",
+      "capturedAt": "2026-11-01T18:19:00.265Z",
+      "fixtures": [
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0cwaNs&competition=l_0ALvwF&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-10-26",
+          "id": "m_0cwaNs",
+          "label": "20:45",
+          "text": "Serie A\nJuventus\nNapoli\n20:45",
+          "time": "2026-11-01T19:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_22n8XS&competition=l_3FJFUl&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-10-26",
+          "id": "m_22n8XS",
+          "label": "20:45",
+          "text": "Ligue 1\nMarseille\nToulouse\n20:45",
+          "time": "2026-11-01T19:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_34Q5mN&competition=l_0ErfuF&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-10-26",
+          "id": "m_34Q5mN",
+          "label": "21:00",
+          "text": "LaLiga\nAthletic Club\nReal Sociedad\n21:00",
+          "time": "2026-11-01T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3oWCl5&competition=l_4QexZg&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-10-26",
+          "id": "m_3oWCl5",
+          "label": "21:30",
+          "text": "Liga Portugal\nBraga\nFamalicão\n21:30",
+          "time": "2026-11-01T20:30:00.000Z"
+        }
+      ]
+    },
+    {
+      "name": "production-next-week",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe&tab=upcoming&week=2026-11-02",
+      "capturedAt": "2026-11-01T18:19:00.653Z",
+      "fixtures": [
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_32m5m0&competition=l_0ALvwF&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_32m5m0",
+          "label": "18:30",
+          "text": "Serie A\nSassuolo\nFiorentina\n18:30",
+          "time": "2026-11-02T17:30:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0xOQtL&competition=l_3FJFUl&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0xOQtL",
+          "label": "20:45",
+          "text": "Ligue 1\nLorient\nBrest\n20:45",
+          "time": "2026-11-02T19:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_4Z0Hkz&competition=l_0ALvwF&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_4Z0Hkz",
+          "label": "20:45",
+          "text": "Serie A\nAtalanta\nParma\n20:45",
+          "time": "2026-11-02T19:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0eAA1g&competition=l_4WFCIZ&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0eAA1g",
+          "label": "21:00",
+          "text": "Premier League\nNewcastle United\nEverton\n21:00",
+          "time": "2026-11-02T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_2P8d0o&competition=l_0ErfuF&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_2P8d0o",
+          "label": "21:00",
+          "text": "LaLiga\nDeportivo A Coruña\nOsasuna\n21:00",
+          "time": "2026-11-02T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0pzdRJ&competition=l_4QexZg&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0pzdRJ",
+          "label": "21:15",
+          "text": "Liga Portugal\nBenfica\nAlverca\n21:15",
+          "time": "2026-11-02T20:15:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_4GpylY&competition=l_4QexZg&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_4GpylY",
+          "label": "21:15",
+          "text": "Liga Portugal\nGil Vicente\nVitória de Guimarães\n21:15",
+          "time": "2026-11-02T20:15:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_31MYPN&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_31MYPN",
+          "label": "18:45",
+          "text": "Champions League\nShakhtar Donetsk\nSporting CP\n18:45",
+          "time": "2026-11-03T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3AQ6Oe&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3AQ6Oe",
+          "label": "18:45",
+          "text": "Champions League\nGalatasaray\nVfB Stuttgart\n18:45",
+          "time": "2026-11-03T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_04phda&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_04phda",
+          "label": "21:00",
+          "text": "Champions League\nAtlético Madrid\nBayern München\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0k4IES&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0k4IES",
+          "label": "21:00",
+          "text": "Champions League\nVillarreal\nParis Saint-Germain\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0VlPJS&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0VlPJS",
+          "label": "21:00",
+          "text": "Champions League\nBodø/Glimt\nLille\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_26eRTe&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_26eRTe",
+          "label": "21:00",
+          "text": "Champions League\nLASK\nSlovan Bratislava\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_2zVvvF&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_2zVvvF",
+          "label": "21:00",
+          "text": "Champions League\nManchester United\nRoma\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3eSoqB&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3eSoqB",
+          "label": "21:00",
+          "text": "Champions League\nBarcelona\nAston Villa\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3mPziT&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3mPziT",
+          "label": "21:00",
+          "text": "Champions League\nFeyenoord\nInter\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_1w1wlw&competition=l_38d9HA&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_1w1wlw",
+          "label": "16:30",
+          "text": "Europa League\nRennes\nOlympiacos\n16:30",
+          "time": "2026-11-04T15:30:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0UTPf2&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0UTPf2",
+          "label": "18:45",
+          "text": "Champions League\nFenerbahçe\nLiverpool\n18:45",
+          "time": "2026-11-04T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_2pqLCB&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_2pqLCB",
+          "label": "18:45",
+          "text": "Champions League\nAEK Athens\nReal Madrid\n18:45",
+          "time": "2026-11-04T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_10Z35D&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_10Z35D",
+          "label": "21:00",
+          "text": "Champions League\nLens\nComo\n21:00",
+          "time": "2026-11-04T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_1zT87G&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_1zT87G",
+          "label": "21:00",
+          "text": "Champions League\nPSV Eindhoven\nClub Brugge\n21:00",
+          "time": "2026-11-04T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_26ZQl6&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_26ZQl6",
+          "label": "21:00",
+          "text": "Champions League\nFC Porto\nNapoli\n21:00",
+          "time": "2026-11-04T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_2bderB&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_2bderB",
+          "label": "21:00",
+          "text": "Champions League\nBorussia Dortmund\nReal Betis\n21:00",
+          "time": "2026-11-04T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3Bhlqj&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3Bhlqj",
+          "label": "21:00",
+          "text": "Champions League\nRB Leipzig\nManchester City\n21:00",
+          "time": "2026-11-04T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_46K3gH&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_46K3gH",
+          "label": "21:00",
+          "text": "Champions League\nViking\nSabah FK\n21:00",
+          "time": "2026-11-04T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_4Wgl1L&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_4Wgl1L",
+          "label": "21:00",
+          "text": "Champions League\nSlavia Prague\nArsenal\n21:00",
+          "time": "2026-11-04T20:00:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_03vbsy&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_03vbsy",
+          "label": "18:45",
+          "text": "Conference League\nLincoln Red Imps FC\nHajduk Split\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0G6Dvn&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0G6Dvn",
+          "label": "18:45",
+          "text": "Conference League\nKuPS\nGent\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0Mi2bq&competition=l_38d9HA&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0Mi2bq",
+          "label": "18:45",
+          "text": "Europa League\nLillestrøm\nViktoria Plzeň\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_0VlQBL&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0VlQBL",
+          "label": "18:45",
+          "text": "Conference League\nFC Midtjylland\nAjax\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_1hN5fp&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_1hN5fp",
+          "label": "18:45",
+          "text": "Conference League\nFK Crvena Zvezda\nInter Club d'Escaldes\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_1HX51i&competition=l_38d9HA&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_1HX51i",
+          "label": "18:45",
+          "text": "Europa League\nLevski Sofia\nJagiellonia Białystok\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_1knPjx&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_1knPjx",
+          "label": "18:45",
+          "text": "Conference League\nAtalanta\nKairat Almaty\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_1ktfVW&competition=l_38d9HA&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_1ktfVW",
+          "label": "18:45",
+          "text": "Europa League\nSparta Prague\nAFC Bournemouth\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_1UMgCU&competition=l_38d9HA&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_1UMgCU",
+          "label": "18:45",
+          "text": "Europa League\nMilan\nFerencváros\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_24iKlF&competition=l_38d9HA&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_24iKlF",
+          "label": "18:45",
+          "text": "Europa League\nReal Sociedad\nLyon\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3AhOyI&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3AhOyI",
+          "label": "18:45",
+          "text": "Conference League\nThun\nHeart of Midlothian\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3Iry5L&competition=l_38d9HA&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3Iry5L",
+          "label": "18:45",
+          "text": "Europa League\nCrystal Palace\nHoffenheim\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3KwI4H&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3KwI4H",
+          "label": "18:45",
+          "text": "Conference League\nAGF\nBraga\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&id=m_3OzXgw&competition=l_2WZ2tt&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_3OzXgw",
+          "label": "18:45",
+          "text": "Conference League\nTrabzonspor\nFreiburg\n18:45",
+          "time": "2026-11-05T17:45:00.000Z"
+        }
+      ],
+      "page": 1
+    },
+    {
+      "name": "production-legacy-redirect",
+      "url": "https://orion-football-ranking.vercel.app/matchs?tab=upcoming&season=2026%2F2027&focus=europe&league=l_0bfbkO&q=paris&week=2026-11-02",
+      "capturedAt": "2026-11-01T18:19:49.383Z",
+      "fixtures": [
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO&id=m_0k4IES&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0k4IES",
+          "label": "21:00",
+          "text": "Champions League\nVillarreal\nParis Saint-Germain\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        }
+      ]
+    },
+    {
+      "name": "production-upcoming-return",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO&tab=upcoming&week=2026-11-02",
+      "capturedAt": "2026-11-01T18:19:49.910Z",
+      "fixtures": [
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO&id=m_0k4IES&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+          "id": "m_0k4IES",
+          "label": "21:00",
+          "text": "Champions League\nVillarreal\nParis Saint-Germain\n21:00",
+          "time": "2026-11-03T20:00:00.000Z"
+        }
+      ]
     }
   ],
   "navigation": [
@@ -1707,6 +2058,410 @@
           "label": "Résultats"
         }
       ]
+    },
+    {
+      "name": "production-default-controls",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe",
+      "capturedAt": "2026-11-01T18:19:00.291Z",
+      "appearanceExport": false,
+      "footerMethod": "/methode?season=2026%2F2027&focus=europe",
+      "minutes": false,
+      "resultRows": [],
+      "topbar": [
+        "Vue d’ensemble",
+        "Compétitions",
+        "Clubs",
+        "Joueurs",
+        "Matchs",
+        "Classements",
+        "Réglages"
+      ],
+      "views": [
+        {
+          "current": "page",
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=upcoming",
+          "label": "À venir"
+        },
+        {
+          "current": null,
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results",
+          "label": "Résultats"
+        }
+      ]
+    },
+    {
+      "name": "production-results-mode",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02",
+      "capturedAt": "2026-11-01T18:19:00.924Z",
+      "appearanceExport": true,
+      "footerMethod": "/methode?season=2026%2F2027&focus=europe",
+      "minutes": true,
+      "resultRows": [
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1cglVW&competition=l_1Isor4&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nUnion Berlin\n1 – 1\n1. FC Köln\nBundesliga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_2mVrHa&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nFrosinone\n2 – 0\nTorino\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1PHYqG&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nLazio\n2 – 1\nCagliari\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0h9fte&competition=l_3FJFUl&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nStrasbourg\n5 – 1\nAuxerre\nLigue 1"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4OH4hE&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nTelstar\n4 – 2\nFC Utrecht\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_2NTHrt&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nExcelsior\n0 – 9\nFC Twente\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3CY7K4&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nGetafe\n3 – 1\nSevilla\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3MjGnF&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nComo\n1 – 0\nVenezia\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3022Tt&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nPEC Zwolle\n1 – 0\nADO Den Haag\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1QYCYW&competition=l_4QexZg&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nFC Porto\n4 – 0\nEstoril\nLiga Portugal"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4b9xEU&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nBarcelona\n6 – 1\nDeportivo Alavés\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_14WeHI&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nAston Villa\n1 – 1\nFulham\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0nBUd0&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nAjax\n1 – 0\nAZ Alkmaar\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_041XzQ&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nCambuur\n4 – 0\nGo Ahead Eagles\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4XOc3a&competition=l_3FJFUl&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nTroyes\n2 – 0\nLe Mans\nLigue 1"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0D0Nv7&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nMilan\n3 – 1\nInter\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4EY4Xg&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nSC Heerenveen\n1 – 0\nNEC Nijmegen\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3ftnql&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nPSV Eindhoven\n7 – 0\nWillem II\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4BXbtD&competition=l_1Isor4&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nBayern München\n2 – 2\nBorussia Dortmund\nBundesliga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0GIRbd&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nTottenham Hotspur\n2 – 0\nCrystal Palace\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0c2nEn&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nReal Betis\n2 – 1\nMálaga\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0zvm5Y&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nUdinese\n2 – 5\nRoma\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_2dR2ia&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nFeyenoord\n1 – 1\nFortuna Sittard\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0nGfzM&competition=l_4QexZg&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nMoreirense\n2 – 1\nEstrela da Amadora\nLiga Portugal"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4KvglU&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nRayo Vallecano\n3 – 0\nCelta Vigo\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4RvJ1j&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nManchester City\n0 – 1\nBrighton & Hove Albion\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1Gc5Hh&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nBrentford\n2 – 0\nNottingham Forest\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0n3Keu&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nHull City\n2 – 2\nIpswich Town\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0IHgwr&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nCoventry City\n3 – 1\nSunderland\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0bXUBx&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nAFC Bournemouth\n2 – 0\nLeeds United\nPremier League"
+        }
+      ],
+      "topbar": [
+        "Vue d’ensemble",
+        "Compétitions",
+        "Clubs",
+        "Joueurs",
+        "Matchs",
+        "Classements",
+        "Réglages"
+      ],
+      "views": [
+        {
+          "current": null,
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=upcoming&week=2026-11-02",
+          "label": "À venir"
+        },
+        {
+          "current": "page",
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02",
+          "label": "Résultats"
+        }
+      ]
+    },
+    {
+      "name": "production-results-detail-final",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1cglVW&competition=l_1Isor4&sourceSeason=2026%2F2027",
+      "capturedAt": "2026-11-01T18:19:11.492Z",
+      "appearanceExport": false,
+      "backHref": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02",
+      "footerMethod": "/methode?season=2026%2F2027&focus=europe",
+      "minutes": false,
+      "resultRows": [],
+      "scoreboard": "Bundesliga\n1 nov. 2026 · 15:30\nUnion Berlin — 1. FC Köln\nUnion Berlin\nDomicile · 4-2-3-1\nTerminé\n1\n–\n1\n1. FC Köln\nExtérieur · 4-4-2\nButs attendus · xG\n0,87\n–\n1,21\nTirs\n5\n–\n14\nTirs cadrés\n2\n–\n2\nPossession\n37 %\n–\n63 %",
+      "topbar": [
+        "Vue d’ensemble",
+        "Compétitions",
+        "Clubs",
+        "Joueurs",
+        "Matchs",
+        "Classements",
+        "Réglages"
+      ],
+      "views": []
+    },
+    {
+      "name": "production-results-return",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02",
+      "capturedAt": "2026-11-01T18:19:11.755Z",
+      "appearanceExport": true,
+      "footerMethod": "/methode?season=2026%2F2027&focus=europe",
+      "minutes": true,
+      "resultRows": [
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1cglVW&competition=l_1Isor4&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nUnion Berlin\n1 – 1\n1. FC Köln\nBundesliga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_2mVrHa&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nFrosinone\n2 – 0\nTorino\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1PHYqG&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nLazio\n2 – 1\nCagliari\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0h9fte&competition=l_3FJFUl&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nStrasbourg\n5 – 1\nAuxerre\nLigue 1"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4OH4hE&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nTelstar\n4 – 2\nFC Utrecht\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_2NTHrt&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nExcelsior\n0 – 9\nFC Twente\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3CY7K4&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nGetafe\n3 – 1\nSevilla\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3MjGnF&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nComo\n1 – 0\nVenezia\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3022Tt&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "1 nov. 2026\nPEC Zwolle\n1 – 0\nADO Den Haag\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1QYCYW&competition=l_4QexZg&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nFC Porto\n4 – 0\nEstoril\nLiga Portugal"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4b9xEU&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nBarcelona\n6 – 1\nDeportivo Alavés\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_14WeHI&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nAston Villa\n1 – 1\nFulham\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0nBUd0&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nAjax\n1 – 0\nAZ Alkmaar\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_041XzQ&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nCambuur\n4 – 0\nGo Ahead Eagles\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4XOc3a&competition=l_3FJFUl&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nTroyes\n2 – 0\nLe Mans\nLigue 1"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0D0Nv7&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nMilan\n3 – 1\nInter\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4EY4Xg&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nSC Heerenveen\n1 – 0\nNEC Nijmegen\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_3ftnql&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nPSV Eindhoven\n7 – 0\nWillem II\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4BXbtD&competition=l_1Isor4&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nBayern München\n2 – 2\nBorussia Dortmund\nBundesliga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0GIRbd&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nTottenham Hotspur\n2 – 0\nCrystal Palace\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0c2nEn&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nReal Betis\n2 – 1\nMálaga\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0zvm5Y&competition=l_0ALvwF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nUdinese\n2 – 5\nRoma\nSerie A"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_2dR2ia&competition=l_4H43wr&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nFeyenoord\n1 – 1\nFortuna Sittard\nEredivisie"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0nGfzM&competition=l_4QexZg&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nMoreirense\n2 – 1\nEstrela da Amadora\nLiga Portugal"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4KvglU&competition=l_0ErfuF&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nRayo Vallecano\n3 – 0\nCelta Vigo\nLaLiga"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_4RvJ1j&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nManchester City\n0 – 1\nBrighton & Hove Albion\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_1Gc5Hh&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nBrentford\n2 – 0\nNottingham Forest\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0n3Keu&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nHull City\n2 – 2\nIpswich Town\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0IHgwr&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nCoventry City\n3 – 1\nSunderland\nPremier League"
+        },
+        {
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02&id=m_0bXUBx&competition=l_4WFCIZ&sourceSeason=2026%2F2027",
+          "text": "31 oct. 2026\nAFC Bournemouth\n2 – 0\nLeeds United\nPremier League"
+        }
+      ],
+      "topbar": [
+        "Vue d’ensemble",
+        "Compétitions",
+        "Clubs",
+        "Joueurs",
+        "Matchs",
+        "Classements",
+        "Réglages"
+      ],
+      "views": [
+        {
+          "current": null,
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=upcoming&week=2026-11-02",
+          "label": "À venir"
+        },
+        {
+          "current": "page",
+          "href": "/matchs?season=2026%2F2027&focus=europe&tab=results&week=2026-11-02",
+          "label": "Résultats"
+        }
+      ]
+    },
+    {
+      "name": "production-legacy-controls",
+      "url": "https://orion-football-ranking.vercel.app/matchs?tab=upcoming&season=2026%2F2027&focus=europe&league=l_0bfbkO&q=paris&week=2026-11-02",
+      "capturedAt": "2026-11-01T18:19:49.415Z",
+      "appearanceExport": false,
+      "footerMethod": "/methode?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO",
+      "minutes": false,
+      "resultRows": [],
+      "topbar": [
+        "Vue d’ensemble",
+        "Compétitions",
+        "Clubs",
+        "Joueurs",
+        "Matchs",
+        "Classements",
+        "Réglages"
+      ],
+      "views": [
+        {
+          "current": "page",
+          "href": "/matchs?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO&tab=upcoming&week=2026-11-02",
+          "label": "À venir"
+        },
+        {
+          "current": null,
+          "href": "/matchs?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO&tab=results&week=2026-11-02",
+          "label": "Résultats"
+        }
+      ]
+    },
+    {
+      "name": "production-upcoming-detail-final",
+      "url": "https://orion-football-ranking.vercel.app/matchs?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO&id=m_0k4IES&competition=l_0bfbkO&sourceSeason=2026%2F2027&from=upcoming&tab=upcoming&week=2026-11-02",
+      "capturedAt": "2026-11-01T18:19:49.667Z",
+      "appearanceExport": false,
+      "backHref": "/matchs?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO&tab=upcoming&week=2026-11-02",
+      "footerMethod": "/methode?season=2026%2F2027&focus=europe&q=paris&league=l_0bfbkO",
+      "minutes": false,
+      "resultRows": [],
+      "scoreboard": "Champions League\n3 nov. 2026 · 21:00\nVillarreal — Paris Saint-Germain\nVillarreal\nDomicile\nÀ venir\n21:00\nParis Saint-Germain\nExtérieur\nButs attendus · xG\n—\n–\n—\nTirs\n—\n–\n—\nTirs cadrés\n—\n–\n—\nPossession\n—\n–\n—",
+      "topbar": [
+        "Vue d’ensemble",
+        "Compétitions",
+        "Clubs",
+        "Joueurs",
+        "Matchs",
+        "Classements",
+        "Réglages"
+      ],
+      "views": []
     }
   ],
   "mobile": {
@@ -1722,5 +2477,11 @@
     ],
     "scrollWidth": 390,
     "width": 390
+  },
+  "production": {
+    "commit": "60167e2828b16366c72f8e1625906f0943d67080",
+    "deployment": "dpl_GYRWK1wRHXCUxELrPMFL99VbyG2w",
+    "url": "https://orion-football-ranking.vercel.app",
+    "state": "READY"
   }
 }

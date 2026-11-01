@@ -32,4 +32,12 @@ An initial browser observation during hot reload retained result links from befo
 
 The legacy HTTP request may return 200 with Next's streaming redirect, rather than an HTTP Location header, because redirect occurs during rendering. `legacy-http.json` records the actual response; the browser verified the final `/matchs` URL and preserved query values. Do not describe that HTTP observation as a 307.
 
-Production verification will be appended after the Git-triggered release is ready.
+## Production
+
+Implementation commit `60167e2828b16366c72f8e1625906f0943d67080` deployed from Git as `dpl_GYRWK1wRHXCUxELrPMFL99VbyG2w`, READY. Connector readback is in `deployment-feature.json`; the established public alias remains https://orion-football-ranking.vercel.app.
+
+Live browser verification passed: seven-link topbar, default À venir, next-week fixtures, Résultats with thirty rows and relevant controls, result detail/back preserving November 2 week, legacy calendar URL preserving Paris search/Champions League/week, upcoming detail/back, reset/current week. `matchs-production.jpg` and `results-production.jpg` show the deployed views. All production DOM captures are included in the independent oracle run.
+
+`cloud-evidence.json` / `cloud.log` pass nine registered routes (including the legacy route), Bun health/configuration, six seasons, thirteen archive families and private-file isolation. The canonical manifest redirects with no-store to this exact implementation commit. Rerun from `dashboard`: `PATH="$HOME/.bun/bin:$PATH" ORION_VERIFY_URL=https://orion-football-ranking.vercel.app ORION_CLOUD_EVIDENCE=outputs/matches-unified/cloud-evidence.json bun scripts/verify_cloud.mjs`.
+
+The final evidence/continuity commit changes no application or raw-data files. Its Git-triggered deployment is checked separately after publishing to avoid recursively committing deployment receipts.
