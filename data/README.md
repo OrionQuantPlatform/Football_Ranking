@@ -9,4 +9,4 @@ Le backend et le frontend du dashboard lisent la base dans `raw/`. Les fournisse
 
 La [documentation du schéma et des relations](../docs/JSON_DATABASE.md) décrit les identifiants, les tables, l’import et leur lecture par le dashboard. Les valeurs calculées et validées d’Orion n’existent pas encore.
 
-Les [classements FIFA et coefficients UEFA](../docs/RANKINGS.md) depuis 2022 se trouvent dans `raw/rankings/`, avec leurs éditions et relations vers les clubs.
+Les [classements FIFA datés depuis 2022 et coefficients UEFA par saison depuis 2023/2024](../docs/RANKINGS.md) se trouvent dans `raw/rankings/`, avec leurs éditions et relations vers les clubs.
