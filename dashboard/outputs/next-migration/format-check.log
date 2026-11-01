@@ -1,0 +1,3 @@
+$ prettier --check frontend/src frontend/app frontend/next.config.mjs backend shared scripts/*.mjs package.json
+Checking formatting...
+All matched files use Prettier code style!
