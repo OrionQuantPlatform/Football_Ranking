@@ -1,5 +1,5 @@
-# Données calculées
+# Données dérivées
 
-Cet espace est réservé aux résultats produits par les modèles : forces d’équipes, contributions par match et classements par saison.
+`dashboard/` contient les vues de lecture du site, générées sans perte depuis les tables de `data/raw/`. Une archive compressée regroupe les huit tables de chaque compétition-saison ; un petit manifeste référence ces archives.
 
-Aucun score Orion n’est actuellement calculé. Les observations et notes du fournisseur restent dans `data/raw/`. Un futur résultat devra identifier sa version de modèle, ses paramètres, la période et les observations sources ; il ne remplacera pas les données brutes.
+Régénération : `python3 dashboard/scripts/build_dashboard_views.py`. Les publications de données quotidiennes et historiques le font automatiquement. Le contenu des tables brutes reste la référence ; aucune métrique Orion n'est calculée par cette optimisation.
