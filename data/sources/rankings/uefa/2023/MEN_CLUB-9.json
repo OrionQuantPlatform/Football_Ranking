@@ -1,0 +1,1082 @@
+{
+  "data": {
+    "lastUpdateDate": "2024-03-13T06:05:47+0000",
+    "members": [
+      {
+        "member": {
+          "associationId": 200082,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/LUX.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2607630.png",
+          "countryCode": "LUX",
+          "countryName": "Luxembourg",
+          "displayName": "Union Titus Petange",
+          "displayNameShort": "Union Titus Petange",
+          "displayOfficialName": "Union Titus Petange",
+          "id": "2607630",
+          "internationalName": "Union Titus Petange",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2607630.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2607630.png",
+          "teamCode": "",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.8,
+          "numberOfMatches": 0,
+          "position": 401,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.8,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.2,
+            "numberOfMatches": 0,
+            "position": 191,
+            "seasonYear": 2021,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200082,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/LUX.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/50059.png",
+          "countryCode": "LUX",
+          "countryName": "Luxembourg",
+          "displayName": "Jeunesse Esch",
+          "displayNameShort": "Jeunesse Esch",
+          "displayOfficialName": "AS Jeunesse Esch",
+          "displayTeamCode": "JEU",
+          "id": "50059",
+          "internationalName": "AS Jeunesse Esch",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50059.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/50059.png",
+          "teamCode": "JEU",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.8,
+          "numberOfMatches": 0,
+          "position": 402,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.5,
+          "totalValue": 1.8,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.6,
+            "numberOfMatches": 0,
+            "position": 162,
+            "seasonYear": 2020,
+            "totalPoints": 1.5,
+            "totalPointsWithBonus": 1.5,
+            "totalValue": 1.5
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200063,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/NIR.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/52374.png",
+          "countryCode": "NIR",
+          "countryName": "Northern Ireland",
+          "displayName": "Ballymena",
+          "displayNameShort": "Ballymena",
+          "displayOfficialName": "Ballymena United FC",
+          "displayTeamCode": "BAL",
+          "id": "52374",
+          "internationalName": "Ballymena United FC",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52374.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/52374.png",
+          "teamCode": "BAL",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.716,
+          "numberOfMatches": 0,
+          "position": 403,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.716,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.475,
+            "numberOfMatches": 0,
+            "position": 218,
+            "seasonYear": 2020,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200063,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/NIR.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/50087.png",
+          "countryCode": "NIR",
+          "countryName": "Northern Ireland",
+          "displayName": "Glenavon",
+          "displayNameShort": "Glenavon",
+          "displayOfficialName": "Glenavon FC",
+          "displayTeamCode": "GLE",
+          "id": "50087",
+          "internationalName": "Glenavon FC",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/50087.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/50087.png",
+          "teamCode": "GLE",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.716,
+          "numberOfMatches": 0,
+          "position": 404,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.716,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.1,
+            "numberOfMatches": 0,
+            "position": 202,
+            "seasonYear": 2019,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200088,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MLT.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/79947.png",
+          "countryCode": "MLT",
+          "countryName": "Malta",
+          "displayName": "Mosta",
+          "displayNameShort": "Mosta",
+          "displayOfficialName": "Mosta FC",
+          "displayTeamCode": "MOS",
+          "id": "79947",
+          "internationalName": "Mosta FC",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/79947.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/79947.png",
+          "teamCode": "MOS",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.65,
+          "numberOfMatches": 0,
+          "position": 405,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.65,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.375,
+            "numberOfMatches": 0,
+            "position": 236,
+            "seasonYear": 2022,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200088,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MLT.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2606175.png",
+          "countryCode": "MLT",
+          "countryName": "Malta",
+          "displayName": "Sirens",
+          "displayNameShort": "Sirens",
+          "displayOfficialName": "Sirens FC",
+          "displayTeamCode": "SIR",
+          "id": "2606175",
+          "internationalName": "FC Sirens",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606175.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2606175.png",
+          "teamCode": "SIR",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.65,
+          "numberOfMatches": 0,
+          "position": 406,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.65,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.3,
+            "numberOfMatches": 0,
+            "position": 187,
+            "seasonYear": 2021,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 257157,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/GEO.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2600544.png",
+          "countryCode": "GEO",
+          "countryName": "Georgia",
+          "displayName": "Gagra",
+          "displayNameShort": "Gagra",
+          "displayOfficialName": "FC Gagra",
+          "id": "2600544",
+          "internationalName": "FC Gagra",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600544.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2600544.png",
+          "teamCode": "",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.6,
+          "numberOfMatches": 0,
+          "position": 407,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.6,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.25,
+            "numberOfMatches": 0,
+            "position": 241,
+            "seasonYear": 2022,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 257157,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/GEO.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/59884.png",
+          "countryCode": "GEO",
+          "countryName": "Georgia",
+          "displayName": "Samtredia",
+          "displayNameShort": "Samtredia",
+          "displayOfficialName": "FC Samtredia",
+          "displayTeamCode": "SAM",
+          "id": "59884",
+          "internationalName": "FC Samtredia",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59884.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/59884.png",
+          "teamCode": "SAM",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.6,
+          "numberOfMatches": 0,
+          "position": 408,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.6,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.325,
+            "numberOfMatches": 0,
+            "position": 187,
+            "seasonYear": 2019,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 259205,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MKD.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/89708.png",
+          "countryCode": "MKD",
+          "countryName": "North Macedonia",
+          "displayName": "Renova",
+          "displayNameShort": "Renova",
+          "displayOfficialName": "KF Renova",
+          "displayTeamCode": "REN",
+          "id": "89708",
+          "internationalName": "KF Renova",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/89708.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/89708.png",
+          "teamCode": "REN",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.1,
+          "numberOfMatches": 0,
+          "position": 409,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.5,
+          "totalValue": 1.5,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.35,
+            "numberOfMatches": 0,
+            "position": 167,
+            "seasonYear": 2021,
+            "totalPoints": 1.5,
+            "totalPointsWithBonus": 1.5,
+            "totalValue": 1.5
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200058,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/ISL.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/52720.png",
+          "countryCode": "ISL",
+          "countryName": "Iceland",
+          "displayName": "ÍBV",
+          "displayNameShort": "ÍBV",
+          "displayOfficialName": "ÍBV Vestmannaeyjar",
+          "displayTeamCode": "ÍBV",
+          "id": "52720",
+          "internationalName": "ÍBV Vestmannaeyjar",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/52720.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/52720.png",
+          "teamCode": "ÍBV",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.45,
+          "numberOfMatches": 0,
+          "position": 410,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.45,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.3,
+            "numberOfMatches": 0,
+            "position": 194,
+            "seasonYear": 2019,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200002,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/ALB.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/64110.png",
+          "countryCode": "ALB",
+          "countryName": "Albania",
+          "displayName": "Luftëtari",
+          "displayNameShort": "Luftëtari",
+          "displayOfficialName": "KS Luftëtari",
+          "displayTeamCode": "LUF",
+          "id": "64110",
+          "internationalName": "KS Luftëtari",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/64110.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/64110.png",
+          "teamCode": "LUF",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.25,
+          "numberOfMatches": 0,
+          "position": 411,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.25,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.2,
+            "numberOfMatches": 0,
+            "position": 223,
+            "seasonYear": 2019,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200144,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/WAL.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/53069.png",
+          "countryCode": "WAL",
+          "countryName": "Wales",
+          "displayName": "Barry",
+          "displayNameShort": "Barry",
+          "displayOfficialName": "Barry Town United AFC",
+          "displayTeamCode": "BAR",
+          "id": "53069",
+          "internationalName": "Barry Town United FC",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53069.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/53069.png",
+          "teamCode": "BAR",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.233,
+          "numberOfMatches": 0,
+          "position": 412,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.233,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.3,
+            "numberOfMatches": 0,
+            "position": 231,
+            "seasonYear": 2021,
+            "totalPoints": 0.5,
+            "totalPointsWithBonus": 0.5,
+            "totalValue": 0.5
+          },
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.2,
+            "numberOfMatches": 0,
+            "position": 232,
+            "seasonYear": 2020,
+            "totalPoints": 0.5,
+            "totalPointsWithBonus": 0.5,
+            "totalValue": 0.5
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200144,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/WAL.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/59337.png",
+          "countryCode": "WAL",
+          "countryName": "Wales",
+          "displayName": "Cardiff Met",
+          "displayNameShort": "Cardiff Met",
+          "displayOfficialName": "Cardiff Met FC",
+          "displayTeamCode": "INT",
+          "id": "59337",
+          "internationalName": "Cardiff Met FC ",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/59337.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/59337.png",
+          "teamCode": "",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.233,
+          "numberOfMatches": 0,
+          "position": 413,
+          "targetSeasonYear": 2023,
+          "totalPoints": 0.5,
+          "totalValue": 1.233,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.2,
+            "numberOfMatches": 0,
+            "position": 231,
+            "seasonYear": 2020,
+            "totalPoints": 0.5,
+            "totalPointsWithBonus": 0.5,
+            "totalValue": 0.5
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 200144,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/WAL.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/73933.png",
+          "countryCode": "WAL",
+          "countryName": "Wales",
+          "displayName": "Cefn Druids",
+          "displayNameShort": "Cefn Druids",
+          "displayOfficialName": "Cefn Druids AFC",
+          "displayTeamCode": "CEF",
+          "id": "73933",
+          "internationalName": "Cefn Druids AFC",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/73933.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/73933.png",
+          "teamCode": "CEF",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.233,
+          "numberOfMatches": 0,
+          "position": 414,
+          "targetSeasonYear": 2023,
+          "totalPoints": 0.5,
+          "totalValue": 1.233,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.2,
+            "numberOfMatches": 0,
+            "position": 236,
+            "seasonYear": 2019,
+            "totalPoints": 0.5,
+            "totalPointsWithBonus": 0.5,
+            "totalValue": 0.5
+          }
+        ]
+      },
+      {
+        "competition": {
+          "age": "ADULT",
+          "displayName": "UEFA Conference League",
+          "id": "2019",
+          "region": "CONTINENTAL",
+          "sex": "MALE",
+          "sportsType": "FOOTBALL",
+          "type": "CUP"
+        },
+        "member": {
+          "associationId": 294080,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/GIB.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2606279.png",
+          "countryCode": "GIB",
+          "countryName": "Gibraltar",
+          "displayName": "Magpies",
+          "displayNameShort": "Magpies",
+          "displayOfficialName": "FCB Magpies",
+          "displayTeamCode": "MAG",
+          "id": "2606279",
+          "internationalName": "FCB Magpies",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2606279.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2606279.png",
+          "teamCode": "MAG",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.158,
+          "numberOfMatches": 0,
+          "position": 415,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.158,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.175,
+            "numberOfMatches": 0,
+            "position": 212,
+            "seasonYear": 2023,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 294080,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/GIB.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2608011.png",
+          "countryCode": "GIB",
+          "countryName": "Gibraltar",
+          "displayName": "Mons Calpe",
+          "displayNameShort": "Mons Calpe",
+          "displayOfficialName": "Mons Calpe SC",
+          "displayTeamCode": "MON",
+          "id": "2608011",
+          "internationalName": "Mons Calpe Sports Club",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2608011.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2608011.png",
+          "teamCode": "MON",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.158,
+          "numberOfMatches": 0,
+          "position": 416,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.158,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.25,
+            "numberOfMatches": 0,
+            "position": 224,
+            "seasonYear": 2022,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 259205,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MKD.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2609278.png",
+          "countryCode": "MKD",
+          "countryName": "North Macedonia",
+          "displayName": "Struga",
+          "displayNameShort": "Struga",
+          "displayOfficialName": "FC Struga",
+          "displayTeamCode": "STR",
+          "id": "2609278",
+          "internationalName": "FC Struga",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2609278.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2609278.png",
+          "teamCode": "",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.1,
+          "numberOfMatches": 0,
+          "position": 417,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.1,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.125,
+            "numberOfMatches": 0,
+            "position": 226,
+            "seasonYear": 2022,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 259205,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MKD.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/53080.png",
+          "countryCode": "MKD",
+          "countryName": "North Macedonia",
+          "displayName": "Vardar",
+          "displayNameShort": "Vardar",
+          "displayOfficialName": "FC Vardar",
+          "displayTeamCode": "VAR",
+          "id": "53080",
+          "internationalName": "FC Vardar",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/53080.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/53080.png",
+          "teamCode": "VAR",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.1,
+          "numberOfMatches": 0,
+          "position": 418,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.1,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.2,
+            "numberOfMatches": 0,
+            "position": 186,
+            "seasonYear": 2019,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 259205,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MKD.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/69601.png",
+          "countryCode": "MKD",
+          "countryName": "North Macedonia",
+          "displayName": "Rabotnicki",
+          "displayNameShort": "Rabotnicki",
+          "displayOfficialName": "FK Rabotnicki",
+          "displayTeamCode": "RAB",
+          "id": "69601",
+          "internationalName": "FK Rabotnicki",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/69601.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/69601.png",
+          "teamCode": "RAB",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.1,
+          "numberOfMatches": 0,
+          "position": 418,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.1,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.2,
+            "numberOfMatches": 0,
+            "position": 219,
+            "seasonYear": 2019,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "competition": {
+          "age": "ADULT",
+          "displayName": "UEFA Conference League",
+          "id": "2019",
+          "region": "CONTINENTAL",
+          "sex": "MALE",
+          "sportsType": "FOOTBALL",
+          "type": "CUP"
+        },
+        "member": {
+          "associationId": 260618,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AND.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/88371.png",
+          "countryCode": "AND",
+          "countryName": "Andorra",
+          "displayName": "At. Escaldes",
+          "displayNameShort": "At. Escaldes",
+          "displayOfficialName": "Atlètic Club d'Escaldes",
+          "displayTeamCode": "AES",
+          "id": "88371",
+          "internationalName": "Atlètic Club d'Escaldes",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/88371.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/88371.png",
+          "teamCode": "AES",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.033,
+          "numberOfMatches": 0,
+          "position": 420,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.033,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.133,
+            "numberOfMatches": 0,
+            "position": 219,
+            "seasonYear": 2023,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "competition": {
+          "age": "ADULT",
+          "displayName": "UEFA Conference League",
+          "id": "2019",
+          "region": "CONTINENTAL",
+          "sex": "MALE",
+          "sportsType": "FOOTBALL",
+          "type": "CUP"
+        },
+        "member": {
+          "associationId": 260618,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/AND.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2600542.png",
+          "countryCode": "AND",
+          "countryName": "Andorra",
+          "displayName": "UE Santa Coloma",
+          "displayNameShort": "UE Santa Coloma",
+          "displayOfficialName": "UE Santa Coloma",
+          "displayTeamCode": "UES",
+          "id": "2600542",
+          "internationalName": "UE Santa Coloma",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2600542.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2600542.png",
+          "teamCode": "UES",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 1.033,
+          "numberOfMatches": 0,
+          "position": 420,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.033,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.133,
+            "numberOfMatches": 0,
+            "position": 218,
+            "seasonYear": 2023,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 292853,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MNE.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/2607980.png",
+          "countryCode": "MNE",
+          "countryName": "Montenegro",
+          "displayName": "FK Podgorica",
+          "displayNameShort": "FK Podgorica",
+          "displayOfficialName": "FK Podgorica",
+          "id": "2607980",
+          "internationalName": "FK Podgorica",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/2607980.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/2607980.png",
+          "teamCode": "",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 0.95,
+          "numberOfMatches": 0,
+          "position": 422,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.0,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.15,
+            "numberOfMatches": 0,
+            "position": 223,
+            "seasonYear": 2022,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      },
+      {
+        "member": {
+          "associationId": 292853,
+          "associationLogoUrl": "https://img.uefa.com/imgml/uefacom/elements/logos/ma/MNE.svg",
+          "bigLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/700x700/77927.png",
+          "countryCode": "MNE",
+          "countryName": "Montenegro",
+          "displayName": "Rudar Pljevlja",
+          "displayNameShort": "Rudar Pljevlja",
+          "displayOfficialName": "FK Rudar Pljevlja",
+          "displayTeamCode": "RUD",
+          "id": "77927",
+          "internationalName": "FK Rudar Pljevlja",
+          "isPlaceHolder": false,
+          "logoUrl": "https://img.uefa.com/imgml/TP/teams/logos/70x70/77927.png",
+          "mediumLogoUrl": "https://img.uefa.com/imgml/TP/teams/logos/240x240/77927.png",
+          "teamCode": "RUD",
+          "typeIsNational": false,
+          "typeTeam": "DOMESTIC"
+        },
+        "overallRanking": {
+          "baseSeasonYear": 2019,
+          "factorBonusForTitleHeld": 0.0,
+          "nationalAssociationPoints": 0.95,
+          "numberOfMatches": 0,
+          "position": 423,
+          "targetSeasonYear": 2023,
+          "totalPoints": 1.0,
+          "totalValue": 1.0,
+          "trend": "STABLE"
+        },
+        "seasonRankings": [
+          {
+            "factorBonusForTitleHeld": 0.0,
+            "factorTotalBonus": 0.0,
+            "nationalAssociationPoints": 0.075,
+            "numberOfMatches": 0,
+            "position": 211,
+            "seasonYear": 2019,
+            "totalPoints": 1.0,
+            "totalPointsWithBonus": 1.0,
+            "totalValue": 1.0
+          }
+        ]
+      }
+    ]
+  },
+  "meta": {
+    "collection": {
+      "totalElements": "423"
+    }
+  }
+}
