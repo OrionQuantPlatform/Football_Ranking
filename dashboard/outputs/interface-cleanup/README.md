@@ -39,3 +39,13 @@ The initial all-competition snapshot briefly saw zero options during async loadi
 Artifacts: PLAN.md defines outcomes before final edits; build.log; application/http-evidence.json and http-runtime.log; browser-evidence.json; before-desktop.jpg/json; desktop-light.jpg, desktop-dark.jpg, mobile-light.jpg, mobile-dark.jpg. Production release readback is recorded separately after Git deployment.
 
 Suggested source commit: `ui: widen dashboard with consistent compact gutters`.
+
+## Production release
+
+- URL: https://statarena-analytics.vercel.app/?season=2026%2F2027&focus=europe
+- Target/status: production / READY, Next.js, source Git main 7ff82a2f24aa68130a029fe856a4938decd97838.
+- Vercel project: statarena (prj_DhaqrVkH3Gi4uysT7IRsm9fB2bjR); deployment dpl_For8yXhoy6XCDhu9UVnQ82yCmhgY.
+- Post-deploy browser input: canonical URL above, 1502x1031 light. Existing six links, actual weekly fixtures, three select controls plus search, 24px aligned gutters, zero sidebar nodes and zero removed-tally nodes verified.
+- Inspect production-browser.json and production-desktop.jpg; the alias orion-football-ranking.vercel.app is assigned to the same deployment.
+- No production runtime-log scan or new monitoring configuration was performed; local browser error console was checked separately.
+- This final receipt commit changes only worklog/evidence. Its application source is identical to the verified Git release; the normal Git integration may trigger a further build.
